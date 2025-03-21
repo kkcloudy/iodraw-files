@@ -22,7 +22,7 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-7" target="TlwbTeG69qlipVzlf5lP-22">
+        <mxCell id="TlwbTeG69qlipVzlf5lP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-7" target="TlwbTeG69qlipVzlf5lP-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-7" value="Backend&lt;div&gt;(Flask or Bottle)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-28" value="other..." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TlwbTeG69qlipVzlf5lP-25">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-22" target="TlwbTeG69qlipVzlf5lP-27">
+        <mxCell id="TlwbTeG69qlipVzlf5lP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=openThin;endFill=0;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-22" target="TlwbTeG69qlipVzlf5lP-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
