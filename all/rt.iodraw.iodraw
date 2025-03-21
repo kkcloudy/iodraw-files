@@ -61,7 +61,7 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-32" value="http://192.168.230.1/api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="142.6" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TlwbTeG69qlipVzlf5lP-35" value="curl -k -X GET &#39;htts://192.168.13.&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="47" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
