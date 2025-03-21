@@ -20,7 +20,7 @@
           <mxGeometry x="310" y="428" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="428" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-7" value="Backend&lt;div&gt;(Flask or Bottle)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
