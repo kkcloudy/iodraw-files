@@ -61,8 +61,8 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-32" value="http://192.168.230.1/api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="142.6" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-34" value="curl -k -X &#39;POST&#39; -H &#39;accept: application/json&#39; -H &#39;Content-Type:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="520" width="360" height="30" as="geometry" />
+        <mxCell id="TlwbTeG69qlipVzlf5lP-34" value="curl -H &#39;Content-Type:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="520" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
