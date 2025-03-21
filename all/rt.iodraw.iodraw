@@ -20,13 +20,13 @@
           <mxGeometry x="310" y="428" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="428" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="428" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-7" target="TlwbTeG69qlipVzlf5lP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-7" value="Backend&lt;div&gt;(Flask or Bottle)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-11" value="Wisgate-RT&lt;div&gt;(Netowrk/LoRa/System...)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="555" width="150" height="60" as="geometry" />
