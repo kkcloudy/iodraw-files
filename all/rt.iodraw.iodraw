@@ -55,6 +55,9 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-28" value="uci/ubus..." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TlwbTeG69qlipVzlf5lP-25">
           <mxGeometry y="90" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TlwbTeG69qlipVzlf5lP-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
