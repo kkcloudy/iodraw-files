@@ -16,10 +16,10 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;startArrow=classicThin;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-4" target="TlwbTeG69qlipVzlf5lP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-4" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="TlwbTeG69qlipVzlf5lP-4" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="310" y="428" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;startArrow=classicThin;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-7" target="TlwbTeG69qlipVzlf5lP-22">
