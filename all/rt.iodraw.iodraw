@@ -19,7 +19,7 @@
         <mxCell id="TlwbTeG69qlipVzlf5lP-4" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="310" y="428" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="TlwbTeG69qlipVzlf5lP-6" value="Frontend&lt;div&gt;(React)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;startArrow=classicThin;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="TlwbTeG69qlipVzlf5lP-7" target="TlwbTeG69qlipVzlf5lP-22">
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="TlwbTeG69qlipVzlf5lP-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ArchiTecture&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="292.5" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TlwbTeG69qlipVzlf5lP-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="660" as="sourcePoint" />
+            <mxPoint x="430" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
